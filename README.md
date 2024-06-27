@@ -17,8 +17,8 @@ This is a simple console-based calculator program written in C. It supports basi
    ```sh
    git clone https://github.com/your-username/super-tic-tac-toe.git
 
-2. **Open in your IDE**
-    - Visual Studio 2022 is what I use.
+2. **Open in your IDE OR run the .EXE**
+    - You can run the exe from the /x64/debug/ path
 
 3. **Run the Program** 
     - Compile and run.
