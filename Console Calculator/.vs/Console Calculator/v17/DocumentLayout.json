@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chief\\source\\repos\\Console Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2AC45A-5C22-45A7-9BB6-6031C0DFEC05}|Console Calculator\\Console Calculator.vcxproj|C:\\Users\\chief\\source\\repos\\Console Calculator\\Console Calculator\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D2AC45A-5C22-45A7-9BB6-6031C0DFEC05}|Console Calculator\\Console Calculator.vcxproj|solutionrelative:Console Calculator\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\Console Calculator\\Console Calculator\\Source.cpp",
+              "RelativeDocumentMoniker": "Console Calculator\\Source.cpp",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\Console Calculator\\Console Calculator\\Source.cpp",
+              "RelativeToolTip": "Console Calculator\\Source.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T16:44:13.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
